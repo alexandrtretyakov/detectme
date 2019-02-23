@@ -4,3 +4,6 @@ venv/
 *.pot
 *.pyc
 __pycache__/
+facedataset/
+trainer/
+
